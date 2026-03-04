@@ -6,7 +6,7 @@ export default function NavBar() {
           <nav className="flex items-center justify-between px-6 py-3">
             <a href="#" className="flex items-center gap-2">
               <span className="inline-block h-3 w-3 rounded-full" style={{background:'var(--ushdani-gold)'}} />
-              <span className="font-[Playfair Display] text-xl tracking-wide text-slate-900">Ushdani</span>
+              <span className="font-[Playfair Display] text-xl tracking-wide text-slate-900">USHDANI</span>
             </a>
             <ul className="hidden md:flex items-center gap-8 text-sm">
               <li><a className="hover:text-slate-900/70" href="#collections">Collections</a></li>

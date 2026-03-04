@@ -30,7 +30,7 @@ export default function Hero() {
         <div className="relative">
           <div className="aspect-[4/5] overflow-hidden rounded-3xl shadow-2xl ring-1 ring-black/5">
             <img
-              alt="Ushdani fine jewelry"
+              alt="USHDANI fine jewelry"
               className="h-full w-full object-cover"
               src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce383?q=80&w=1200&auto=format&fit=crop"
             />
