@@ -1,7 +1,7 @@
 const testimonials = [
   { name:'Sara K.', quote:'The gold vermeil necklace is stunning — feels luxurious yet minimal.', location:'Dubai' },
-  { name:'Ayesha R.', quote:'Perfect ring stack. I wear them daily and the shine holds.', location:'Karachi' },
-  { name:'Elena M.', quote:'Fast shipping, beautiful packaging, premium quality.', location:'London' },
+  { name:'Ayesha R.', quote:'Perfecttt ring stack. I wear them daily and the shine holds.', location:'Karachi' },
+  { name:'Humama B.', quote:'Fast shipping, beautiful packaging, aur premium quality.', location:'London' },
 ]
 
 export default function Testimonials(){
