@@ -37,8 +37,8 @@ export default function Hero() {
           </div>
           <div className="absolute -bottom-8 -left-8 hidden md:block">
             <div className="rounded-2xl bg-white/80 backdrop-blur border border-white/60 shadow-md p-5">
-              <p className="text-sm font-medium text-slate-700">Free shipping all over Pakistan</p>
-              <p className="text-xs text-slate-500 mt-1">On orders over Rs10k</p>
+              <p className="text-sm font-medium text-slate-700">Signature Packaging</p>
+              <p className="text-xs text-slate-500 mt-1">An unboxing experience worthy of what's inside.</p>
             </div>
           </div>
         </div>
