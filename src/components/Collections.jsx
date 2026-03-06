@@ -1,17 +1,17 @@
 const items = [
   {
     title: 'Rings',
-    image: 'https://images.unsplash.com/photo-1617038260897-3a281a4dc24f?q=80&w=1200&auto=format&fit=crop',
+    image: '/rings.png',
     blurb: 'Delicate bands and statement solitaires.',
   },
   {
     title: 'Necklaces',
-    image: 'https://images.unsplash.com/photo-1566174053879-31528523f8ae?q=80&w=1200&auto=format&fit=crop',
+    image: '/necklace.png',
     blurb: 'Minimal chains and signature pendants.',
   },
   {
     title: 'Bracelets',
-    image: 'https://images.unsplash.com/photo-1603566234499-76d5f1b5f0b0?q=80&w=1200&auto=format&fit=crop',
+    image: '/bracelets.png',
     blurb: 'Everyday cuffs and curated stacks.',
   },
 ]

@@ -12,7 +12,7 @@ export default function Hero() {
             Timeless <span style={{color:'var(--ushdani-gold)'}}>elegance</span>, modern craftsmanship.
           </h1>
           <p className="mt-5 text-slate-600 max-w-xl">
-            Hand‑finished jewelry designed for everyday luxury. Ethically sourced, made to last, and crafted with precision.
+            Precision-crafted jewelry designed for everyday luxury. Ethically sourced materials, built to last.
           </p>
 
           <div className="mt-8 flex gap-4">
@@ -32,13 +32,13 @@ export default function Hero() {
             <img
               alt="USHDANI fine jewelry"
               className="h-full w-full object-cover"
-              src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce383?q=80&w=1200&auto=format&fit=crop"
+              src="/hero.jpg"
             />
           </div>
           <div className="absolute -bottom-8 -left-8 hidden md:block">
             <div className="rounded-2xl bg-white/80 backdrop-blur border border-white/60 shadow-md p-5">
-              <p className="text-sm font-medium text-slate-700">Free worldwide shipping</p>
-              <p className="text-xs text-slate-500 mt-1">On orders over $150</p>
+              <p className="text-sm font-medium text-slate-700">Free shipping all over Pakistan</p>
+              <p className="text-xs text-slate-500 mt-1">On orders over Rs10k</p>
             </div>
           </div>
         </div>
